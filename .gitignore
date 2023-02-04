@@ -14,3 +14,4 @@ ENV/
 env.bak/
 venv.bak/
 query.sql
+populate_script.py
